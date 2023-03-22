@@ -1,5 +1,5 @@
 # Simple Users Dashboard with CRUD actions
-Visit the demo website below
+Visit the demo website below,
 # https://hasansamplewala-adminui.netlify.app/
 <img width="916" alt="image" src="https://user-images.githubusercontent.com/63907816/226263836-7ae47020-bd69-4427-9fa2-895abbd4f4e6.png">
 
